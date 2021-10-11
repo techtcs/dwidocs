@@ -1,4 +1,8 @@
-## D.W.I. (Days counter - Days Without Incidents)
+## DWI: Days counter | Progressive counter
+
+Count the days and follow up your progress to reach a goal or avoid an incident.  
+
+### DWI: Days Without Incidents
 
 🎯 Follow up your progress avoiding an incident  
 💪 Count your success days  
@@ -22,11 +26,13 @@ People are using the app for various purposes:
 You can also define a title to describe your goal or the incident you want to avoid.  
 
 Download the app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.dwi)  
+Download the **PRO** app on [Play Store](https://play.google.com/store/apps/details?id=tech.tcsolution.dwi.pro)  
+Download the app on [App Store](https://apps.apple.com/br/app/dwi-contador-de-dias/id1506825274)  
 
 #### Privacy Policy
 
 * [English version](/privacyPolicy/dwi-privacy_policy-en.md)  
-* [Portuguese version](/privacyPolicy/dwi-privacy_policy-pt.md)
+* [Portuguese version](/privacyPolicy/dwi-privacy_policy-pt.md)  
 
 #### Support or Contact
 
